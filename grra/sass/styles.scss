@@ -36,10 +36,16 @@ a {
   text-decoration: none;
 }
 
-h1 a span,
-h2 a,
 #main-menu li a {
-  font-family: $newscycle;	
+  font-family: $newscycle;
+}
+
+#logo {
+  margin: 20px;
+}
+
+#name-and-slogan {
+  margin-top: 70px;
 }
 
 #main-menu {

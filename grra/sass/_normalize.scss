@@ -180,6 +180,7 @@ blockquote {
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
 h1 {
+  font-family: $newscycle;
   /* Set the font-size and line-height while keeping a proper vertical rhythm. */
   @include adjust-font-size-to( $h1-font-size );
 
@@ -188,26 +189,31 @@ h1 {
   @include trailer(1, $h1-font-size);
 }
 h2 {
+  font-family: $newscycle;
   @include adjust-font-size-to( $h2-font-size );
   @include leader(1, $h2-font-size);
   @include trailer(1, $h2-font-size);
 }
 h3 {
+  font-family: $newscycle;
   @include adjust-font-size-to( $h3-font-size );
   @include leader(1, $h3-font-size);
   @include trailer(1, $h3-font-size);
 }
 h4 {
+  font-family: $newscycle;
   @include adjust-font-size-to( $h4-font-size );
   @include leader(1, $h4-font-size);
   @include trailer(1, $h4-font-size);
 }
 h5 {
+  font-family: $newscycle;
   @include adjust-font-size-to( $h5-font-size );
   @include leader(1, $h5-font-size);
   @include trailer(1, $h5-font-size);
 }
 h6 {
+  font-family: $newscycle;
   @include adjust-font-size-to( $h6-font-size );
   @include leader(1, $h6-font-size);
   @include trailer(1, $h6-font-size);

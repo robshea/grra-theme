@@ -23,3 +23,25 @@
 /* SMACSS theme rules */
 /* @import "theme-A"; */
 /* @import "theme-B"; */
+
+/* CUSTOM */
+
+body {
+  font-family: $verdana;
+  color: #333333;
+}
+
+a {
+  color: #d01d00;  
+  text-decoration: none;
+}
+
+h1 a span,
+h2 a,
+#main-menu li a {
+  font-family: $newscycle;	
+}
+
+#main-menu {
+	float: right;
+}

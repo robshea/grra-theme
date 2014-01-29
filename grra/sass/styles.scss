@@ -50,16 +50,17 @@ a {
 }
 
 #page-title {
-  background-color: #999999;
+  display: none;
+/*  background-color: White;
   padding: 5px 0 10px 20px;
-  color: White;
-  opacity: .30;
+  color: Black;
+  opacity: .5;*/
 }
 
 .node-page {
-  position: relative;
+/*  position: relative;
   top: -62px;
-  z-index: -1;
+  z-index: -1;*/
 }
 
 th, td {

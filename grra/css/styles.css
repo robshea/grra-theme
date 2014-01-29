@@ -1829,25 +1829,26 @@ a {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000352}}
 #page-title {
-  margin-left: 20px;
-  color: #555555;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  background-color: #999999;
+  padding: 5px 0 10px 20px;
+  color: White;
+  opacity: .30;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000359}}
 .node-page {
   position: relative;
-  top: -50px;
+  top: -62px;
   z-index: -1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000365}}
 th, td {
   border: 1px solid #dddddd;
   padding: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000370}}
 th {
   background-color: #eeeeee;
 }

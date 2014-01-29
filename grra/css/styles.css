@@ -603,7 +603,7 @@ table {
 .region-bottom {
   margin-left: auto;
   margin-right: auto;
-  max-width: 1200px;
+  max-width: 960px;
 }
 
 /* Apply the shared properties of grid items in a single, efficient ruleset. */
@@ -1814,19 +1814,40 @@ a {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000339}}
 #main-menu li a {
   font-family: "News Cycle", sans-serif;
+  font-size: 120%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000344}}
 #logo {
   margin: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000348}}
 #name-and-slogan {
   margin-top: 70px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000351}}
-#main-menu {
-  float: right;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000352}}
+#page-title {
+  margin-left: 20px;
+  color: #555555;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000358}}
+.node-page {
+  position: relative;
+  top: -50px;
+  z-index: -1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000364}}
+th, td {
+  border: 1px solid #dddddd;
+  padding: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000369}}
+th {
+  background-color: #eeeeee;
 }

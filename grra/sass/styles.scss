@@ -32,12 +32,13 @@ body {
 }
 
 a {
-  color: #d01d00;  
+  color: #d01d00;
   text-decoration: none;
 }
 
 #main-menu li a {
   font-family: $newscycle;
+  font-size: 120%;
 }
 
 #logo {
@@ -48,6 +49,23 @@ a {
   margin-top: 70px;
 }
 
-#main-menu {
-	float: right;
+#page-title {
+  margin-left: 20px;
+  color: #555555;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.node-page {
+  position: relative;
+  top: -50px;
+  z-index: -1;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #eeeeee;
 }

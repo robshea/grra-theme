@@ -177,6 +177,8 @@ blockquote {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003182}}
 h1 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   /* Set the font-size and line-height while keeping a proper vertical rhythm. */
   font-size: 2em;
   line-height: 1.5em;
@@ -188,6 +190,8 @@ h1 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003191}}
 h2 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 1.5em;
   line-height: 2em;
   margin-top: 1em;
@@ -197,6 +201,8 @@ h2 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003197}}
 h3 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 1.17em;
   line-height: 1.28205em;
   margin-top: 1.28205em;
@@ -206,6 +212,8 @@ h3 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003203}}
 h4 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 1em;
   line-height: 1.5em;
   margin-top: 1.5em;
@@ -215,6 +223,8 @@ h4 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003209}}
 h5 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 0.83em;
   line-height: 1.80723em;
   margin-top: 1.80723em;
@@ -224,6 +234,8 @@ h5 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/_normalize\.scss}line{font-family:\00003215}}
 h6 {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 0.67em;
   line-height: 2.23881em;
   margin-top: 2.23881em;

@@ -35,3 +35,10 @@
     @include element-invisible-off;
   }
 }
+
+// sets header font and applys fixes for Google font aliasing in windows chrome and firefox
+@mixin header-font {
+  font-family: $newscycle;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 .4px rgba(0,0,0,0.3);
+}

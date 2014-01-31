@@ -37,7 +37,7 @@ a {
 }
 
 #main-menu li a {
-  font-family: $newscycle;
+  @include header-font;
   font-size: 120%;
 }
 

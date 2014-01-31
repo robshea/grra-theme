@@ -975,7 +975,7 @@ table {
 /* The link around the name of the website. */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/components\/_misc\.scss}line{font-family:\00003106}}
 .header__site-link:link, .header__site-link:visited {
-  color: #333;
+  color: #333333;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/components\/_misc\.scss}line{font-family:\00003112}}
@@ -1826,6 +1826,8 @@ a {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/robshea\/grra-theme\/grra\/sass\/styles\.scss}line{font-family:\0000339}}
 #main-menu li a {
   font-family: "News Cycle", sans-serif;
+  -webkit-text-stroke: 0.25px;
+  text-shadow: 0 0 0.4px rgba(0, 0, 0, 0.3);
   font-size: 120%;
 }
 

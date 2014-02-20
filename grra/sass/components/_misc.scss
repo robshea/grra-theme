@@ -127,7 +127,8 @@
 /* Wrapper for any blocks placed in the header region. */
 .header__region {
   /* Clear the logo. */
-  clear: both;
+  /* removed for logo on right
+  clear: both;*/
 }
 
 /**
